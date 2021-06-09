@@ -6,3 +6,5 @@ Soon we will share the code for the following works:
 "Bank of Weight Filters for Deep CNNs." Kumaraswamy, Suresh Kirthi, P. S. Sastry, and Kalpathi Ramakrishnan, Asian Conference on Machine Learning. PMLR, 2016.
 
 "Multi-source Subnetwork-level Transfer in CNNs Using Filter-Trees." 2018, Kumaraswamy, Suresh Kirthi, P. S. Sastry, and Kalpathi Ramakrishnan. , International Joint Conference on Neural Networks (IJCNN). IEEE, 2018
+
+Caffe and MATLAB code coming soon...
